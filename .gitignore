@@ -2,3 +2,6 @@
 .DS_Store
 target/
 *.jar
+!tpfinal-loic-champeau-job1.jar
+!tpfinal-loic-champeau-job2.jar
+!tpfinal-loic-champeau-job3.jar
